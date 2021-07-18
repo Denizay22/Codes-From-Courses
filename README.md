@@ -1,2 +1,2 @@
 # Codes-From-Courses
-Written codes or mini projects during courses I took.
+Written codes or mini projects during the courses I took.
